@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="mynativeapplication/src/main/res/layout/activity_empty.xml" value="0.1408514492753623" />
         <entry key="mynativeapplication/src/main/res/layout/activity_main.xml" value="0.16312056737588654" />
+        <entry key="mynativeapplication/src/main/res/layout/content_main.xml" value="0.1408514492753623" />
       </map>
     </option>
   </component>
